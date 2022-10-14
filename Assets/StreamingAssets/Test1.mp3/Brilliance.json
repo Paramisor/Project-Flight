@@ -1,0 +1,4621 @@
+{
+    "peaks": 97,
+    "min": 0.0,
+    "max": 0.03257327154278755,
+    "avg": 0.000042460949771339074,
+    "samples": [
+        {
+            "time": 0.0,
+            "spectralFlux": 0.011173066683113575,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.04643990844488144,
+            "spectralFlux": 0.017662640661001207,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.09287981688976288,
+            "spectralFlux": 0.010897410102188588,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.13931973278522492,
+            "spectralFlux": 0.021191449835896493,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.18575963377952577,
+            "spectralFlux": 0.012604789808392525,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.2321995496749878,
+            "spectralFlux": 0.011345544829964638,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.27863946557044985,
+            "spectralFlux": 0.016326725482940675,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.3250793516635895,
+            "spectralFlux": 0.007664215750992298,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.3715192675590515,
+            "spectralFlux": 0.006016778293997049,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.41795918345451357,
+            "spectralFlux": 0.005090055521577597,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.4643990993499756,
+            "spectralFlux": 0.004275898914784193,
+            "threshold": 0.012235107831656933,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.5108389854431152,
+            "spectralFlux": 0.004095552489161491,
+            "threshold": 0.011813279241323471,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.5572789311408997,
+            "spectralFlux": 0.003932212479412556,
+            "threshold": 0.012090637348592282,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.6037188172340393,
+            "spectralFlux": 0.020468004047870637,
+            "threshold": 0.012540031224489212,
+            "prunedSpectralFlux": 0.007927972823381424,
+            "isPeak": true
+        },
+        {
+            "time": 0.650158703327179,
+            "spectralFlux": 0.012376392260193825,
+            "threshold": 0.012043619528412819,
+            "prunedSpectralFlux": 0.00033277273178100586,
+            "isPeak": false
+        },
+        {
+            "time": 0.6965986490249634,
+            "spectralFlux": 0.009651201777160168,
+            "threshold": 0.011794667690992356,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.743038535118103,
+            "spectralFlux": 0.007210584823042154,
+            "threshold": 0.011465889401733876,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.7894784808158875,
+            "spectralFlux": 0.006626148708164692,
+            "threshold": 0.010700306855142117,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.8359183669090271,
+            "spectralFlux": 0.005113877821713686,
+            "threshold": 0.010423339903354645,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.8823582530021668,
+            "spectralFlux": 0.004494082648307085,
+            "threshold": 0.010216026566922665,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 0.9287981986999512,
+            "spectralFlux": 0.022054145112633706,
+            "threshold": 0.010023652575910092,
+            "prunedSpectralFlux": 0.012030492536723614,
+            "isPeak": true
+        },
+        {
+            "time": 0.9752380847930908,
+            "spectralFlux": 0.01801282912492752,
+            "threshold": 0.009845495223999024,
+            "prunedSpectralFlux": 0.008167333900928498,
+            "isPeak": false
+        },
+        {
+            "time": 1.0216779708862305,
+            "spectralFlux": 0.013331594876945019,
+            "threshold": 0.01111680269241333,
+            "prunedSpectralFlux": 0.0022147921845316889,
+            "isPeak": false
+        },
+        {
+            "time": 1.0681178569793702,
+            "spectralFlux": 0.008663054555654526,
+            "threshold": 0.01190326176583767,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.1145578622817994,
+            "spectralFlux": 0.006139891222119331,
+            "threshold": 0.011321215890347958,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.160997748374939,
+            "spectralFlux": 0.004205008503049612,
+            "threshold": 0.011005496606230736,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.2074376344680787,
+            "spectralFlux": 0.0032788896933197977,
+            "threshold": 0.010736264288425446,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.2538775205612183,
+            "spectralFlux": 0.002734304638579488,
+            "threshold": 0.011708338744938374,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.300317406654358,
+            "spectralFlux": 0.0020441475789994,
+            "threshold": 0.012335303239524365,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.346757411956787,
+            "spectralFlux": 0.0014550888445228339,
+            "threshold": 0.012799916788935662,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.3931972980499268,
+            "spectralFlux": 0.02422458305954933,
+            "threshold": 0.01390396524220705,
+            "prunedSpectralFlux": 0.010320617817342282,
+            "isPeak": true
+        },
+        {
+            "time": 1.4396371841430665,
+            "spectralFlux": 0.016384504735469819,
+            "threshold": 0.013296579010784626,
+            "prunedSpectralFlux": 0.003087925724685192,
+            "isPeak": false
+        },
+        {
+            "time": 1.486077070236206,
+            "spectralFlux": 0.011252269148826599,
+            "threshold": 0.014006818644702435,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.5325169563293458,
+            "spectralFlux": 0.007377472706139088,
+            "threshold": 0.01437098253518343,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.578956961631775,
+            "spectralFlux": 0.005388364661484957,
+            "threshold": 0.01471029780805111,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.6253968477249146,
+            "spectralFlux": 0.022601772099733354,
+            "threshold": 0.014843935146927834,
+            "prunedSpectralFlux": 0.007757836952805519,
+            "isPeak": true
+        },
+        {
+            "time": 1.6718367338180543,
+            "spectralFlux": 0.016553089022636415,
+            "threshold": 0.01497124508023262,
+            "prunedSpectralFlux": 0.0015818439424037934,
+            "isPeak": false
+        },
+        {
+            "time": 1.7182766199111939,
+            "spectralFlux": 0.012470260262489319,
+            "threshold": 0.01610061526298523,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.7647165060043336,
+            "spectralFlux": 0.021974852308630945,
+            "threshold": 0.016753025352954866,
+            "prunedSpectralFlux": 0.005221826955676079,
+            "isPeak": true
+        },
+        {
+            "time": 1.8111565113067628,
+            "spectralFlux": 0.012437190860509873,
+            "threshold": 0.01720028929412365,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.8575963973999024,
+            "spectralFlux": 0.029258286580443383,
+            "threshold": 0.01755029894411564,
+            "prunedSpectralFlux": 0.011707987636327744,
+            "isPeak": true
+        },
+        {
+            "time": 1.904036283493042,
+            "spectralFlux": 0.019097520038485528,
+            "threshold": 0.016411950811743737,
+            "prunedSpectralFlux": 0.0026855692267417909,
+            "isPeak": false
+        },
+        {
+            "time": 1.9504761695861817,
+            "spectralFlux": 0.014035539701581002,
+            "threshold": 0.015713607892394067,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 1.9969160556793213,
+            "spectralFlux": 0.008255820721387864,
+            "threshold": 0.015271621756255627,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.043355941772461,
+            "spectralFlux": 0.006220751442015171,
+            "threshold": 0.015074309892952443,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.0897958278656008,
+            "spectralFlux": 0.021160559728741647,
+            "threshold": 0.014987681992352009,
+            "prunedSpectralFlux": 0.006172877736389637,
+            "isPeak": true
+        },
+        {
+            "time": 2.1362357139587404,
+            "spectralFlux": 0.013064143247902394,
+            "threshold": 0.013785417191684246,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.182675838470459,
+            "spectralFlux": 0.009125825949013234,
+            "threshold": 0.014253692701458931,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.2291157245635988,
+            "spectralFlux": 0.006996904034167528,
+            "threshold": 0.014397417195141316,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.2755556106567385,
+            "spectralFlux": 0.006200730334967375,
+            "threshold": 0.013589912094175816,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.321995496749878,
+            "spectralFlux": 0.0053274258971214298,
+            "threshold": 0.013280823826789856,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.3684353828430177,
+            "spectralFlux": 0.004254162777215242,
+            "threshold": 0.011960665695369244,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.4148752689361574,
+            "spectralFlux": 0.0042533776722848419,
+            "threshold": 0.011236424557864666,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.461315155029297,
+            "spectralFlux": 0.004016741178929806,
+            "threshold": 0.010754500515758992,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.5077550411224367,
+            "spectralFlux": 0.003565895836800337,
+            "threshold": 0.010761594399809838,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.554194927215576,
+            "spectralFlux": 0.023967474699020387,
+            "threshold": 0.011404874734580517,
+            "prunedSpectralFlux": 0.012562599964439869,
+            "isPeak": true
+        },
+        {
+            "time": 2.600634813308716,
+            "spectralFlux": 0.01474591065198183,
+            "threshold": 0.010795146226882935,
+            "prunedSpectralFlux": 0.003950764425098896,
+            "isPeak": false
+        },
+        {
+            "time": 2.6470749378204347,
+            "spectralFlux": 0.009189368225634098,
+            "threshold": 0.010531334206461907,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.693514823913574,
+            "spectralFlux": 0.0075432597659528259,
+            "threshold": 0.010379038751125336,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.739954710006714,
+            "spectralFlux": 0.008355780504643917,
+            "threshold": 0.010359834879636765,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.7863945960998537,
+            "spectralFlux": 0.007630358915776014,
+            "threshold": 0.011334177106618882,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.832834482192993,
+            "spectralFlux": 0.006405067164450884,
+            "threshold": 0.011899128556251526,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.879274368286133,
+            "spectralFlux": 0.008368149399757386,
+            "threshold": 0.012237788178026677,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 2.9257142543792726,
+            "spectralFlux": 0.016406018286943437,
+            "threshold": 0.012516090646386147,
+            "prunedSpectralFlux": 0.003889927640557289,
+            "isPeak": true
+        },
+        {
+            "time": 2.972154140472412,
+            "spectralFlux": 0.011506540700793267,
+            "threshold": 0.01282018143683672,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.0185940265655519,
+            "spectralFlux": 0.008887125179171563,
+            "threshold": 0.013058718293905259,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.0650339126586916,
+            "spectralFlux": 0.006714473478496075,
+            "threshold": 0.011943258345127106,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.11147403717041,
+            "spectralFlux": 0.006692839320749044,
+            "threshold": 0.011367958039045334,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.15791392326355,
+            "spectralFlux": 0.02162781171500683,
+            "threshold": 0.011096736416220665,
+            "prunedSpectralFlux": 0.010531075298786164,
+            "isPeak": true
+        },
+        {
+            "time": 3.2043538093566896,
+            "spectralFlux": 0.014272501692175866,
+            "threshold": 0.0108786104246974,
+            "prunedSpectralFlux": 0.003393891267478466,
+            "isPeak": false
+        },
+        {
+            "time": 3.250793695449829,
+            "spectralFlux": 0.009616275317966938,
+            "threshold": 0.010532994754612446,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.2972335815429689,
+            "spectralFlux": 0.008659823797643185,
+            "threshold": 0.010172021575272084,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.3436734676361086,
+            "spectralFlux": 0.008831513114273548,
+            "threshold": 0.011266752146184445,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.390113353729248,
+            "spectralFlux": 0.007342733908444643,
+            "threshold": 0.011546852998435498,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.4365532398223879,
+            "spectralFlux": 0.006306021939963102,
+            "threshold": 0.01145236473530531,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.4829931259155275,
+            "spectralFlux": 0.005636986345052719,
+            "threshold": 0.011534948833286763,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.529433012008667,
+            "spectralFlux": 0.004895031917840242,
+            "threshold": 0.011698013171553612,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.5758728981018068,
+            "spectralFlux": 0.004089572932571173,
+            "threshold": 0.011919048614799977,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.6223130226135256,
+            "spectralFlux": 0.002883538603782654,
+            "threshold": 0.01206862274557352,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.668752908706665,
+            "spectralFlux": 0.0019149471772834659,
+            "threshold": 0.011145943775773049,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.7151927947998049,
+            "spectralFlux": 0.02373831532895565,
+            "threshold": 0.010582858696579934,
+            "prunedSpectralFlux": 0.013155456632375718,
+            "isPeak": true
+        },
+        {
+            "time": 3.7616326808929445,
+            "spectralFlux": 0.012803071178495884,
+            "threshold": 0.01027442142367363,
+            "prunedSpectralFlux": 0.002528649754822254,
+            "isPeak": false
+        },
+        {
+            "time": 3.808072566986084,
+            "spectralFlux": 0.014909966848790646,
+            "threshold": 0.009984544478356839,
+            "prunedSpectralFlux": 0.004925422370433807,
+            "isPeak": true
+        },
+        {
+            "time": 3.8545124530792238,
+            "spectralFlux": 0.012814119458198548,
+            "threshold": 0.009682822041213513,
+            "prunedSpectralFlux": 0.003131297416985035,
+            "isPeak": false
+        },
+        {
+            "time": 3.9009523391723635,
+            "spectralFlux": 0.011468970216810704,
+            "threshold": 0.010131226852536202,
+            "prunedSpectralFlux": 0.0013377433642745019,
+            "isPeak": false
+        },
+        {
+            "time": 3.947392225265503,
+            "spectralFlux": 0.010214212350547314,
+            "threshold": 0.010642328299582005,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 3.9938321113586427,
+            "spectralFlux": 0.009061080403625965,
+            "threshold": 0.010952634736895562,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.040272235870361,
+            "spectralFlux": 0.007018746342509985,
+            "threshold": 0.011173070408403874,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.086711883544922,
+            "spectralFlux": 0.005356989800930023,
+            "threshold": 0.011359688825905323,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.133152008056641,
+            "spectralFlux": 0.004732703324407339,
+            "threshold": 0.011549463495612145,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.179591655731201,
+            "spectralFlux": 0.004070088267326355,
+            "threshold": 0.011716648004949093,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.22603178024292,
+            "spectralFlux": 0.004054258111864328,
+            "threshold": 0.01049958448857069,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.2724714279174809,
+            "spectralFlux": 0.014442468993365765,
+            "threshold": 0.01107559073716402,
+            "prunedSpectralFlux": 0.003366878256201744,
+            "isPeak": true
+        },
+        {
+            "time": 4.318911552429199,
+            "spectralFlux": 0.014398450963199139,
+            "threshold": 0.011078769341111184,
+            "prunedSpectralFlux": 0.0033196816220879556,
+            "isPeak": false
+        },
+        {
+            "time": 4.365351676940918,
+            "spectralFlux": 0.010550156235694886,
+            "threshold": 0.010967414826154709,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.4117913246154789,
+            "spectralFlux": 0.008385278284549714,
+            "threshold": 0.010699275881052018,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.458231449127197,
+            "spectralFlux": 0.007044360041618347,
+            "threshold": 0.010375753976404667,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.504671096801758,
+            "spectralFlux": 0.005888315849006176,
+            "threshold": 0.010040982626378537,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.551111221313477,
+            "spectralFlux": 0.004562030546367168,
+            "threshold": 0.009789083153009415,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.597550868988037,
+            "spectralFlux": 0.004468152765184641,
+            "threshold": 0.009602684527635575,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.643990993499756,
+            "spectralFlux": 0.021923165768384935,
+            "threshold": 0.009413025341928006,
+            "prunedSpectralFlux": 0.012510140426456929,
+            "isPeak": true
+        },
+        {
+            "time": 4.690430641174316,
+            "spectralFlux": 0.014960301108658314,
+            "threshold": 0.009251181967556477,
+            "prunedSpectralFlux": 0.005709119141101837,
+            "isPeak": false
+        },
+        {
+            "time": 4.736870765686035,
+            "spectralFlux": 0.011050993576645852,
+            "threshold": 0.010230444371700287,
+            "prunedSpectralFlux": 0.0008205492049455643,
+            "isPeak": false
+        },
+        {
+            "time": 4.783310890197754,
+            "spectralFlux": 0.007223438937216997,
+            "threshold": 0.01015511341392994,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.8297505378723148,
+            "spectralFlux": 0.005091781262308359,
+            "threshold": 0.009823375381529332,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.876190662384033,
+            "spectralFlux": 0.0037605352699756624,
+            "threshold": 0.009558961726725102,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.922630310058594,
+            "spectralFlux": 0.003030341351404786,
+            "threshold": 0.009312976151704789,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 4.9690704345703129,
+            "spectralFlux": 0.0024056623224169018,
+            "threshold": 0.010125725530087948,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.015510082244873,
+            "spectralFlux": 0.0017297847662121058,
+            "threshold": 0.010645465925335884,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.061950206756592,
+            "spectralFlux": 0.001507574925199151,
+            "threshold": 0.012197170406579972,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.108389854431152,
+            "spectralFlux": 0.019559232518076898,
+            "threshold": 0.012990228831768036,
+            "prunedSpectralFlux": 0.006569003686308861,
+            "isPeak": true
+        },
+        {
+            "time": 5.154829978942871,
+            "spectralFlux": 0.013249718584120274,
+            "threshold": 0.012211919762194157,
+            "prunedSpectralFlux": 0.001037798821926117,
+            "isPeak": false
+        },
+        {
+            "time": 5.201269626617432,
+            "spectralFlux": 0.009145923890173436,
+            "threshold": 0.012726628221571446,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.24770975112915,
+            "spectralFlux": 0.0063635981641709808,
+            "threshold": 0.012967770919203759,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.294149875640869,
+            "spectralFlux": 0.004490524530410767,
+            "threshold": 0.013188526034355164,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.34058952331543,
+            "spectralFlux": 0.01991289108991623,
+            "threshold": 0.0133507139980793,
+            "prunedSpectralFlux": 0.006562177091836929,
+            "isPeak": true
+        },
+        {
+            "time": 5.387029647827148,
+            "spectralFlux": 0.014117531478404999,
+            "threshold": 0.013424328528344632,
+            "prunedSpectralFlux": 0.0006932029500603676,
+            "isPeak": false
+        },
+        {
+            "time": 5.433469295501709,
+            "spectralFlux": 0.02913067117333412,
+            "threshold": 0.014241569675505162,
+            "prunedSpectralFlux": 0.01488910149782896,
+            "isPeak": true
+        },
+        {
+            "time": 5.479909420013428,
+            "spectralFlux": 0.017024939879775049,
+            "threshold": 0.014784369617700577,
+            "prunedSpectralFlux": 0.0022405702620744707,
+            "isPeak": false
+        },
+        {
+            "time": 5.526349067687988,
+            "spectralFlux": 0.009599944576621056,
+            "threshold": 0.015206025913357735,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.572789192199707,
+            "spectralFlux": 0.02310987003147602,
+            "threshold": 0.015527365729212761,
+            "prunedSpectralFlux": 0.00758250430226326,
+            "isPeak": true
+        },
+        {
+            "time": 5.619228839874268,
+            "spectralFlux": 0.014869083650410176,
+            "threshold": 0.014673378318548203,
+            "prunedSpectralFlux": 0.0001957053318619728,
+            "isPeak": false
+        },
+        {
+            "time": 5.665668964385986,
+            "spectralFlux": 0.01071873214095831,
+            "threshold": 0.014140907675027848,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.712108612060547,
+            "spectralFlux": 0.0076597617007792,
+            "threshold": 0.013828827068209648,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.758548736572266,
+            "spectralFlux": 0.004926081746816635,
+            "threshold": 0.013688554987311364,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.804988861083984,
+            "spectralFlux": 0.015969986096024514,
+            "threshold": 0.013641825877130032,
+            "prunedSpectralFlux": 0.0023281602188944818,
+            "isPeak": true
+        },
+        {
+            "time": 5.851428508758545,
+            "spectralFlux": 0.010999990627169609,
+            "threshold": 0.013342039659619332,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.897868633270264,
+            "spectralFlux": 0.008406016044318676,
+            "threshold": 0.013633711263537407,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.944308280944824,
+            "spectralFlux": 0.0065954686142504219,
+            "threshold": 0.012516803108155728,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 5.990748405456543,
+            "spectralFlux": 0.006037748418748379,
+            "threshold": 0.011939477175474167,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.0371880531311039,
+            "spectralFlux": 0.004818935412913561,
+            "threshold": 0.011849935166537762,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.083628177642822,
+            "spectralFlux": 0.0042046536691486839,
+            "threshold": 0.010905354283750058,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.130067825317383,
+            "spectralFlux": 0.004142620135098696,
+            "threshold": 0.010399728082120419,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.176507949829102,
+            "spectralFlux": 0.0037506346125155689,
+            "threshold": 0.010112305171787739,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.22294807434082,
+            "spectralFlux": 0.015166268683969975,
+            "threshold": 0.011099749244749546,
+            "prunedSpectralFlux": 0.0040665194392204288,
+            "isPeak": false
+        },
+        {
+            "time": 6.269387722015381,
+            "spectralFlux": 0.018735671415925027,
+            "threshold": 0.011635803617537022,
+            "prunedSpectralFlux": 0.007099867798388004,
+            "isPeak": true
+        },
+        {
+            "time": 6.3158278465271,
+            "spectralFlux": 0.01144628506153822,
+            "threshold": 0.011264917440712452,
+            "prunedSpectralFlux": 0.00018136762082576752,
+            "isPeak": false
+        },
+        {
+            "time": 6.36226749420166,
+            "spectralFlux": 0.00788394920527935,
+            "threshold": 0.011013082228600979,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.408707618713379,
+            "spectralFlux": 0.008182195946574211,
+            "threshold": 0.010880611836910248,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.4551472663879398,
+            "spectralFlux": 0.008153998292982579,
+            "threshold": 0.012243813835084439,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.501587390899658,
+            "spectralFlux": 0.006863360293209553,
+            "threshold": 0.012967221438884735,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.548027038574219,
+            "spectralFlux": 0.006167862564325333,
+            "threshold": 0.01339335273951292,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.5944671630859379,
+            "spectralFlux": 0.023294299840927125,
+            "threshold": 0.013657419942319394,
+            "prunedSpectralFlux": 0.00963687989860773,
+            "isPeak": true
+        },
+        {
+            "time": 6.640906810760498,
+            "spectralFlux": 0.013413609936833382,
+            "threshold": 0.013954734429717064,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.687346935272217,
+            "spectralFlux": 0.010097640566527844,
+            "threshold": 0.014231801964342595,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.7337870597839359,
+            "spectralFlux": 0.007012578658759594,
+            "threshold": 0.01369196455925703,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.780226707458496,
+            "spectralFlux": 0.0063085779547691349,
+            "threshold": 0.01288501638919115,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.826666831970215,
+            "spectralFlux": 0.028179503977298738,
+            "threshold": 0.012498806230723858,
+            "prunedSpectralFlux": 0.015680696815252305,
+            "isPeak": true
+        },
+        {
+            "time": 6.873106479644775,
+            "spectralFlux": 0.017491700127720834,
+            "threshold": 0.012289040721952916,
+            "prunedSpectralFlux": 0.005202659405767918,
+            "isPeak": false
+        },
+        {
+            "time": 6.919546604156494,
+            "spectralFlux": 0.011566010303795338,
+            "threshold": 0.012003970332443715,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 6.965986251831055,
+            "spectralFlux": 0.008385729975998402,
+            "threshold": 0.011630771681666375,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.012426376342773,
+            "spectralFlux": 0.008850090205669403,
+            "threshold": 0.01178034208714962,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.058866024017334,
+            "spectralFlux": 0.008137526921927929,
+            "threshold": 0.012195618823170662,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.105306148529053,
+            "spectralFlux": 0.00661884993314743,
+            "threshold": 0.011280981823801995,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.151745796203613,
+            "spectralFlux": 0.0059589724987745289,
+            "threshold": 0.012318051420152188,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.198185920715332,
+            "spectralFlux": 0.005331301596015692,
+            "threshold": 0.012740898877382279,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.244626045227051,
+            "spectralFlux": 0.004562643356621265,
+            "threshold": 0.013467647135257721,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.291065692901611,
+            "spectralFlux": 0.003668583929538727,
+            "threshold": 0.014088351279497147,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.33750581741333,
+            "spectralFlux": 0.0022450382821261884,
+            "threshold": 0.012963611632585526,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.383945465087891,
+            "spectralFlux": 0.009231548756361008,
+            "threshold": 0.0124003104865551,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.430385589599609,
+            "spectralFlux": 0.012743066996335984,
+            "threshold": 0.012124807573854924,
+            "prunedSpectralFlux": 0.00061825942248106,
+            "isPeak": true
+        },
+        {
+            "time": 7.47682523727417,
+            "spectralFlux": 0.008812541142106057,
+            "threshold": 0.012507217936217785,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.523265361785889,
+            "spectralFlux": 0.02983386255800724,
+            "threshold": 0.012772122398018837,
+            "prunedSpectralFlux": 0.017061740159988405,
+            "isPeak": true
+        },
+        {
+            "time": 7.569705009460449,
+            "spectralFlux": 0.016792740672826768,
+            "threshold": 0.012823553755879403,
+            "prunedSpectralFlux": 0.003969186916947365,
+            "isPeak": false
+        },
+        {
+            "time": 7.616145133972168,
+            "spectralFlux": 0.01851942203938961,
+            "threshold": 0.012882204726338387,
+            "prunedSpectralFlux": 0.005637217313051224,
+            "isPeak": true
+        },
+        {
+            "time": 7.662585258483887,
+            "spectralFlux": 0.016136402264237405,
+            "threshold": 0.012923321686685086,
+            "prunedSpectralFlux": 0.0032130805775523187,
+            "isPeak": false
+        },
+        {
+            "time": 7.709024906158447,
+            "spectralFlux": 0.010371134616434574,
+            "threshold": 0.01293886173516512,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.755465030670166,
+            "spectralFlux": 0.008572776801884175,
+            "threshold": 0.012931169010698796,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.801904678344727,
+            "spectralFlux": 0.00720388675108552,
+            "threshold": 0.012971144169569016,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.848344802856445,
+            "spectralFlux": 0.014440566301345826,
+            "threshold": 0.013078529387712479,
+            "prunedSpectralFlux": 0.0013620369136333466,
+            "isPeak": true
+        },
+        {
+            "time": 7.894784450531006,
+            "spectralFlux": 0.01304439827799797,
+            "threshold": 0.012724854052066803,
+            "prunedSpectralFlux": 0.0003195442259311676,
+            "isPeak": false
+        },
+        {
+            "time": 7.941224575042725,
+            "spectralFlux": 0.008951849304139614,
+            "threshold": 0.012122354470193386,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 7.987664222717285,
+            "spectralFlux": 0.0075475010089576248,
+            "threshold": 0.011721203103661538,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.034104347229004,
+            "spectralFlux": 0.006610002368688583,
+            "threshold": 0.00997418724000454,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.080544471740723,
+            "spectralFlux": 0.00557733466848731,
+            "threshold": 0.009038377553224564,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.126984596252442,
+            "spectralFlux": 0.004440844524651766,
+            "threshold": 0.007981466129422188,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.173423767089844,
+            "spectralFlux": 0.004301531706005335,
+            "threshold": 0.007992872036993504,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.219863891601563,
+            "spectralFlux": 0.003945284988731146,
+            "threshold": 0.008087802678346634,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.266304016113282,
+            "spectralFlux": 0.00363168865442276,
+            "threshold": 0.008112182840704918,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.312744140625,
+            "spectralFlux": 0.003203478641808033,
+            "threshold": 0.008114350028336048,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.359183311462403,
+            "spectralFlux": 0.0024609838146716358,
+            "threshold": 0.007611650042235851,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.405623435974121,
+            "spectralFlux": 0.002172803273424506,
+            "threshold": 0.008596105501055718,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.45206356048584,
+            "spectralFlux": 0.001975753577426076,
+            "threshold": 0.00916682556271553,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.498503684997559,
+            "spectralFlux": 0.001784966909326613,
+            "threshold": 0.009541967883706093,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.544942855834961,
+            "spectralFlux": 0.016317009925842286,
+            "threshold": 0.009719603694975376,
+            "prunedSpectralFlux": 0.006597406230866909,
+            "isPeak": true
+        },
+        {
+            "time": 8.59138298034668,
+            "spectralFlux": 0.01187420729547739,
+            "threshold": 0.009802105836570263,
+            "prunedSpectralFlux": 0.0020721014589071275,
+            "isPeak": false
+        },
+        {
+            "time": 8.637823104858399,
+            "spectralFlux": 0.008958793245255947,
+            "threshold": 0.010833392851054669,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.684263229370118,
+            "spectralFlux": 0.007238208781927824,
+            "threshold": 0.011404628865420819,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.730703353881836,
+            "spectralFlux": 0.006481151562184095,
+            "threshold": 0.01177213154733181,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.777142524719239,
+            "spectralFlux": 0.028631627559661866,
+            "threshold": 0.012020226567983628,
+            "prunedSpectralFlux": 0.016611400991678239,
+            "isPeak": true
+        },
+        {
+            "time": 8.823582649230957,
+            "spectralFlux": 0.017988242208957673,
+            "threshold": 0.01221652701497078,
+            "prunedSpectralFlux": 0.005771715193986893,
+            "isPeak": false
+        },
+        {
+            "time": 8.870022773742676,
+            "spectralFlux": 0.013487241230905056,
+            "threshold": 0.01378509309142828,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.916462898254395,
+            "spectralFlux": 0.00942258071154356,
+            "threshold": 0.014792286790907383,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 8.962902069091797,
+            "spectralFlux": 0.006883619353175163,
+            "threshold": 0.015404574573040009,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.009342193603516,
+            "spectralFlux": 0.020769530907273294,
+            "threshold": 0.016347432509064676,
+            "prunedSpectralFlux": 0.004422098398208618,
+            "isPeak": true
+        },
+        {
+            "time": 9.055782318115235,
+            "spectralFlux": 0.0133461132645607,
+            "threshold": 0.01611635833978653,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.102222442626954,
+            "spectralFlux": 0.0097640510648489,
+            "threshold": 0.016039609909057618,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.148662567138672,
+            "spectralFlux": 0.007559895981103182,
+            "threshold": 0.01613844372332096,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.195101737976075,
+            "spectralFlux": 0.006311532109975815,
+            "threshold": 0.01614893600344658,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.241541862487793,
+            "spectralFlux": 0.02729661762714386,
+            "threshold": 0.016098711639642717,
+            "prunedSpectralFlux": 0.011197905987501145,
+            "isPeak": true
+        },
+        {
+            "time": 9.287981986999512,
+            "spectralFlux": 0.018120052292943,
+            "threshold": 0.01460043154656887,
+            "prunedSpectralFlux": 0.0035196207463741304,
+            "isPeak": false
+        },
+        {
+            "time": 9.33442211151123,
+            "spectralFlux": 0.011670300737023354,
+            "threshold": 0.013723085634410382,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.380861282348633,
+            "spectralFlux": 0.016713568940758706,
+            "threshold": 0.013132335618138314,
+            "prunedSpectralFlux": 0.003581233322620392,
+            "isPeak": true
+        },
+        {
+            "time": 9.427301406860352,
+            "spectralFlux": 0.012658298015594483,
+            "threshold": 0.012821456417441368,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.47374153137207,
+            "spectralFlux": 0.010659043677151204,
+            "threshold": 0.013455177657306195,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.520181655883789,
+            "spectralFlux": 0.01052368525415659,
+            "threshold": 0.012882892973721028,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.566621780395508,
+            "spectralFlux": 0.007404298521578312,
+            "threshold": 0.012621007859706879,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.61306095123291,
+            "spectralFlux": 0.005685936193913221,
+            "threshold": 0.012448683381080628,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.659501075744629,
+            "spectralFlux": 0.004908855073153973,
+            "threshold": 0.012371537275612355,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.705941200256348,
+            "spectralFlux": 0.004096939694136381,
+            "threshold": 0.012282461859285832,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.752381324768067,
+            "spectralFlux": 0.004133700393140316,
+            "threshold": 0.010834707878530026,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.798820495605469,
+            "spectralFlux": 0.004500340670347214,
+            "threshold": 0.011490031145513058,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.845260620117188,
+            "spectralFlux": 0.016917547211050988,
+            "threshold": 0.011859582737088204,
+            "prunedSpectralFlux": 0.005057964473962784,
+            "isPeak": true
+        },
+        {
+            "time": 9.891700744628907,
+            "spectralFlux": 0.011708350852131844,
+            "threshold": 0.011574501171708107,
+            "prunedSpectralFlux": 0.00013384968042373657,
+            "isPeak": false
+        },
+        {
+            "time": 9.938140869140625,
+            "spectralFlux": 0.009199603460729123,
+            "threshold": 0.011273101903498173,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 9.984580039978028,
+            "spectralFlux": 0.007035569753497839,
+            "threshold": 0.010968719609081746,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.031020164489746,
+            "spectralFlux": 0.006338422652333975,
+            "threshold": 0.010547691024839878,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.077460289001465,
+            "spectralFlux": 0.004901188425719738,
+            "threshold": 0.010281264781951905,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.123900413513184,
+            "spectralFlux": 0.004373842850327492,
+            "threshold": 0.010081231594085694,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.170340538024903,
+            "spectralFlux": 0.028496012091636659,
+            "threshold": 0.00988929532468319,
+            "prunedSpectralFlux": 0.01860671676695347,
+            "isPeak": true
+        },
+        {
+            "time": 10.216779708862305,
+            "spectralFlux": 0.017521517351269723,
+            "threshold": 0.00971919670701027,
+            "prunedSpectralFlux": 0.007802320644259453,
+            "isPeak": false
+        },
+        {
+            "time": 10.263219833374024,
+            "spectralFlux": 0.012199776247143746,
+            "threshold": 0.011131997220218182,
+            "prunedSpectralFlux": 0.0010677790269255639,
+            "isPeak": false
+        },
+        {
+            "time": 10.309659957885743,
+            "spectralFlux": 0.007886161096394062,
+            "threshold": 0.011802459135651589,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.356100082397461,
+            "spectralFlux": 0.0058396426029503349,
+            "threshold": 0.011361588723957539,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.402539253234864,
+            "spectralFlux": 0.003857408184558153,
+            "threshold": 0.011063660494983197,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.448979377746582,
+            "spectralFlux": 0.0031858820002526047,
+            "threshold": 0.010787737555801869,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.4954195022583,
+            "spectralFlux": 0.0025187500286847355,
+            "threshold": 0.011905291117727757,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.54185962677002,
+            "spectralFlux": 0.0018698683707043529,
+            "threshold": 0.012522024102509022,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.588299751281739,
+            "spectralFlux": 0.0014037024229764939,
+            "threshold": 0.013269762508571148,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.63473892211914,
+            "spectralFlux": 0.026503030210733415,
+            "threshold": 0.014203191734850407,
+            "prunedSpectralFlux": 0.012299838475883007,
+            "isPeak": true
+        },
+        {
+            "time": 10.68117904663086,
+            "spectralFlux": 0.015115994960069657,
+            "threshold": 0.013087192550301552,
+            "prunedSpectralFlux": 0.0020288024097681047,
+            "isPeak": false
+        },
+        {
+            "time": 10.727619171142579,
+            "spectralFlux": 0.009937075898051262,
+            "threshold": 0.01372320856899023,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.774059295654297,
+            "spectralFlux": 0.006991173140704632,
+            "threshold": 0.0140322744846344,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.8204984664917,
+            "spectralFlux": 0.004830807447433472,
+            "threshold": 0.014309386722743512,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 10.866938591003418,
+            "spectralFlux": 0.024730175733566285,
+            "threshold": 0.014437791891396046,
+            "prunedSpectralFlux": 0.010292383842170239,
+            "isPeak": true
+        },
+        {
+            "time": 10.913378715515137,
+            "spectralFlux": 0.016103364527225496,
+            "threshold": 0.0145398685708642,
+            "prunedSpectralFlux": 0.0015634959563612939,
+            "isPeak": false
+        },
+        {
+            "time": 10.959818840026856,
+            "spectralFlux": 0.01674037240445614,
+            "threshold": 0.015603444539010525,
+            "prunedSpectralFlux": 0.0011369278654456139,
+            "isPeak": false
+        },
+        {
+            "time": 11.006258964538575,
+            "spectralFlux": 0.019153133034706117,
+            "threshold": 0.016212940216064454,
+            "prunedSpectralFlux": 0.0029401928186416628,
+            "isPeak": true
+        },
+        {
+            "time": 11.052698135375977,
+            "spectralFlux": 0.010826044715940953,
+            "threshold": 0.016651658341288568,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.099138259887696,
+            "spectralFlux": 0.027591783553361894,
+            "threshold": 0.017001189291477205,
+            "prunedSpectralFlux": 0.01059059426188469,
+            "isPeak": true
+        },
+        {
+            "time": 11.145578384399414,
+            "spectralFlux": 0.017093297094106675,
+            "threshold": 0.015723230317234994,
+            "prunedSpectralFlux": 0.0013700667768716813,
+            "isPeak": false
+        },
+        {
+            "time": 11.192018508911133,
+            "spectralFlux": 0.012273779138922692,
+            "threshold": 0.015083692036569119,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.238457679748536,
+            "spectralFlux": 0.007872710935771466,
+            "threshold": 0.01471971720457077,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.284897804260254,
+            "spectralFlux": 0.005473635625094175,
+            "threshold": 0.01454226952046156,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.331337928771973,
+            "spectralFlux": 0.020025836303830148,
+            "threshold": 0.014480979181826115,
+            "prunedSpectralFlux": 0.005544857122004032,
+            "isPeak": true
+        },
+        {
+            "time": 11.377778053283692,
+            "spectralFlux": 0.01216909196227789,
+            "threshold": 0.013158957473933697,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.424217224121094,
+            "spectralFlux": 0.008816231042146683,
+            "threshold": 0.013432704843580723,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.470657348632813,
+            "spectralFlux": 0.006937942933291197,
+            "threshold": 0.013221601955592633,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.517097473144532,
+            "spectralFlux": 0.006268716417253017,
+            "threshold": 0.01254760380834341,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.56353759765625,
+            "spectralFlux": 0.004989959299564362,
+            "threshold": 0.012362212873995304,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.609977722167969,
+            "spectralFlux": 0.004174141678959131,
+            "threshold": 0.011152708902955056,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.656416893005371,
+            "spectralFlux": 0.004181593656539917,
+            "threshold": 0.01053697057068348,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.70285701751709,
+            "spectralFlux": 0.0038603749126195909,
+            "threshold": 0.01016209926456213,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.749297142028809,
+            "spectralFlux": 0.0037981674540787937,
+            "threshold": 0.010798693634569645,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.795737266540528,
+            "spectralFlux": 0.0204376932233572,
+            "threshold": 0.011371544562280178,
+            "prunedSpectralFlux": 0.009066148661077023,
+            "isPeak": true
+        },
+        {
+            "time": 11.84217643737793,
+            "spectralFlux": 0.013397915288805962,
+            "threshold": 0.010782253928482533,
+            "prunedSpectralFlux": 0.002615661360323429,
+            "isPeak": false
+        },
+        {
+            "time": 11.888616561889649,
+            "spectralFlux": 0.00848148949444294,
+            "threshold": 0.010508781298995018,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.935056686401368,
+            "spectralFlux": 0.007890656590461731,
+            "threshold": 0.010372635908424855,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 11.981496810913086,
+            "spectralFlux": 0.0084413206204772,
+            "threshold": 0.01100907288491726,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.027936935424805,
+            "spectralFlux": 0.007344108074903488,
+            "threshold": 0.011893334798514843,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.074376106262207,
+            "spectralFlux": 0.006338304840028286,
+            "threshold": 0.012382050044834614,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.120816230773926,
+            "spectralFlux": 0.01795213110744953,
+            "threshold": 0.012688918970525265,
+            "prunedSpectralFlux": 0.005263212136924267,
+            "isPeak": true
+        },
+        {
+            "time": 12.167256355285645,
+            "spectralFlux": 0.01454378291964531,
+            "threshold": 0.01297355629503727,
+            "prunedSpectralFlux": 0.0015702266246080399,
+            "isPeak": false
+        },
+        {
+            "time": 12.213696479797364,
+            "spectralFlux": 0.010695399716496468,
+            "threshold": 0.01326688565313816,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.260135650634766,
+            "spectralFlux": 0.007839102298021317,
+            "threshold": 0.013468693941831589,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.306575775146485,
+            "spectralFlux": 0.006660604849457741,
+            "threshold": 0.012573031708598137,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.353015899658204,
+            "spectralFlux": 0.017014848068356515,
+            "threshold": 0.012071085162460804,
+            "prunedSpectralFlux": 0.00494376290589571,
+            "isPeak": false
+        },
+        {
+            "time": 12.399456024169922,
+            "spectralFlux": 0.020269544795155526,
+            "threshold": 0.01183704100549221,
+            "prunedSpectralFlux": 0.008432503789663315,
+            "isPeak": true
+        },
+        {
+            "time": 12.44589614868164,
+            "spectralFlux": 0.01272794883698225,
+            "threshold": 0.011587891727685929,
+            "prunedSpectralFlux": 0.0011400571092963219,
+            "isPeak": false
+        },
+        {
+            "time": 12.492335319519043,
+            "spectralFlux": 0.009032887406647206,
+            "threshold": 0.011219345964491368,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.538775444030762,
+            "spectralFlux": 0.008688356727361679,
+            "threshold": 0.010884694755077362,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.58521556854248,
+            "spectralFlux": 0.008504760451614857,
+            "threshold": 0.011500589549541474,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.6316556930542,
+            "spectralFlux": 0.006993460934609175,
+            "threshold": 0.010978905484080315,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.678094863891602,
+            "spectralFlux": 0.006256358698010445,
+            "threshold": 0.01211761124432087,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.72453498840332,
+            "spectralFlux": 0.005450444761663675,
+            "threshold": 0.012607064098119736,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.770975112915039,
+            "spectralFlux": 0.004775776527822018,
+            "threshold": 0.012979613617062569,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.817415237426758,
+            "spectralFlux": 0.003945791628211737,
+            "threshold": 0.013889957219362259,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.86385440826416,
+            "spectralFlux": 0.002606040798127651,
+            "threshold": 0.013573744334280491,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.910294532775879,
+            "spectralFlux": 0.00204545259475708,
+            "threshold": 0.01286227349191904,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 12.956734657287598,
+            "spectralFlux": 0.01608998142182827,
+            "threshold": 0.01250394806265831,
+            "prunedSpectralFlux": 0.00358603335916996,
+            "isPeak": true
+        },
+        {
+            "time": 13.003174781799317,
+            "spectralFlux": 0.009692150168120861,
+            "threshold": 0.012346324510872364,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.049614906311036,
+            "spectralFlux": 0.03257327154278755,
+            "threshold": 0.012827439233660698,
+            "prunedSpectralFlux": 0.019745832309126855,
+            "isPeak": true
+        },
+        {
+            "time": 13.096054077148438,
+            "spectralFlux": 0.018445074558258058,
+            "threshold": 0.01292384136468172,
+            "prunedSpectralFlux": 0.005521233193576336,
+            "isPeak": false
+        },
+        {
+            "time": 13.142494201660157,
+            "spectralFlux": 0.013737802393734455,
+            "threshold": 0.012998880818486214,
+            "prunedSpectralFlux": 0.0007389215752482414,
+            "isPeak": false
+        },
+        {
+            "time": 13.188934326171875,
+            "spectralFlux": 0.021074369549751283,
+            "threshold": 0.013018396683037281,
+            "prunedSpectralFlux": 0.008055972866714,
+            "isPeak": true
+        },
+        {
+            "time": 13.235374450683594,
+            "spectralFlux": 0.012008164077997208,
+            "threshold": 0.01304879505187273,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.281813621520996,
+            "spectralFlux": 0.009004570543766022,
+            "threshold": 0.013040919788181782,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.328253746032715,
+            "spectralFlux": 0.007054462563246489,
+            "threshold": 0.013060096651315689,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.374693870544434,
+            "spectralFlux": 0.006537172943353653,
+            "threshold": 0.013153187930583954,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.421133995056153,
+            "spectralFlux": 0.016306018456816675,
+            "threshold": 0.013258015736937523,
+            "prunedSpectralFlux": 0.0030480027198791506,
+            "isPeak": true
+        },
+        {
+            "time": 13.467574119567871,
+            "spectralFlux": 0.010031122714281083,
+            "threshold": 0.012452042661607266,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.514013290405274,
+            "spectralFlux": 0.00818159244954586,
+            "threshold": 0.01200282946228981,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.560453414916993,
+            "spectralFlux": 0.006565382704138756,
+            "threshold": 0.010089032351970673,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.606893539428711,
+            "spectralFlux": 0.005931729916483164,
+            "threshold": 0.009050289168953896,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.65333366394043,
+            "spectralFlux": 0.004651072435081005,
+            "threshold": 0.008298709988594056,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.699772834777832,
+            "spectralFlux": 0.004249437712132931,
+            "threshold": 0.007243035826832056,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.74621295928955,
+            "spectralFlux": 0.004079984035342932,
+            "threshold": 0.0073601738549768929,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.79265308380127,
+            "spectralFlux": 0.0037052221596240999,
+            "threshold": 0.00740847596898675,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.839093208312989,
+            "spectralFlux": 0.003328753402456641,
+            "threshold": 0.007475184742361307,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.885533332824707,
+            "spectralFlux": 0.0025795961264520885,
+            "threshold": 0.007467000279575586,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.93197250366211,
+            "spectralFlux": 0.0022714664228260519,
+            "threshold": 0.0071001858450472359,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 13.978412628173829,
+            "spectralFlux": 0.0019983272068202497,
+            "threshold": 0.00774439936503768,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.024852752685547,
+            "spectralFlux": 0.0018377752276137472,
+            "threshold": 0.008138473145663739,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.071292877197266,
+            "spectralFlux": 0.004359540995210409,
+            "threshold": 0.008381788618862629,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.117732048034668,
+            "spectralFlux": 0.013862846419215203,
+            "threshold": 0.008485285565257073,
+            "prunedSpectralFlux": 0.00537756085395813,
+            "isPeak": true
+        },
+        {
+            "time": 14.164172172546387,
+            "spectralFlux": 0.009769353084266186,
+            "threshold": 0.00880251731723547,
+            "prunedSpectralFlux": 0.0009668357670307159,
+            "isPeak": false
+        },
+        {
+            "time": 14.210612297058106,
+            "spectralFlux": 0.008110680617392064,
+            "threshold": 0.009507793001830578,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.257052421569825,
+            "spectralFlux": 0.006407579407095909,
+            "threshold": 0.009924507699906826,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.303491592407227,
+            "spectralFlux": 0.010498140007257462,
+            "threshold": 0.010209690779447556,
+            "prunedSpectralFlux": 0.000288449227809906,
+            "isPeak": false
+        },
+        {
+            "time": 14.349931716918946,
+            "spectralFlux": 0.020231179893016816,
+            "threshold": 0.01040860079228878,
+            "prunedSpectralFlux": 0.009822579100728035,
+            "isPeak": true
+        },
+        {
+            "time": 14.396371841430664,
+            "spectralFlux": 0.014421086758375168,
+            "threshold": 0.010942830704152584,
+            "prunedSpectralFlux": 0.0034782560542225839,
+            "isPeak": false
+        },
+        {
+            "time": 14.442811965942383,
+            "spectralFlux": 0.01041787676513195,
+            "threshold": 0.011674079112708569,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.489252090454102,
+            "spectralFlux": 0.007570411544293165,
+            "threshold": 0.012139493599534035,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.535691261291504,
+            "spectralFlux": 0.00967391673475504,
+            "threshold": 0.013876172713935376,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.582131385803223,
+            "spectralFlux": 0.01541630458086729,
+            "threshold": 0.01467310544103384,
+            "prunedSpectralFlux": 0.0007431991398334503,
+            "isPeak": true
+        },
+        {
+            "time": 14.628571510314942,
+            "spectralFlux": 0.010677975602447987,
+            "threshold": 0.014959648251533509,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.67501163482666,
+            "spectralFlux": 0.008220605552196503,
+            "threshold": 0.015410399995744229,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.721450805664063,
+            "spectralFlux": 0.006478178780525923,
+            "threshold": 0.015534572303295136,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.767890930175782,
+            "spectralFlux": 0.011038210242986679,
+            "threshold": 0.01566835306584835,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.8143310546875,
+            "spectralFlux": 0.013849571347236634,
+            "threshold": 0.015453689731657505,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.860771179199219,
+            "spectralFlux": 0.009367402642965317,
+            "threshold": 0.015030782669782639,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 14.907211303710938,
+            "spectralFlux": 0.029335174709558488,
+            "threshold": 0.014961937442421914,
+            "prunedSpectralFlux": 0.014373237267136574,
+            "isPeak": true
+        },
+        {
+            "time": 14.95365047454834,
+            "spectralFlux": 0.016977643594145776,
+            "threshold": 0.014880244620144368,
+            "prunedSpectralFlux": 0.0020973989740014078,
+            "isPeak": false
+        },
+        {
+            "time": 15.000090599060059,
+            "spectralFlux": 0.018399804830551149,
+            "threshold": 0.01488606259226799,
+            "prunedSpectralFlux": 0.0035137422382831575,
+            "isPeak": true
+        },
+        {
+            "time": 15.046530723571778,
+            "spectralFlux": 0.0169062502682209,
+            "threshold": 0.014693329110741616,
+            "prunedSpectralFlux": 0.002212921157479286,
+            "isPeak": false
+        },
+        {
+            "time": 15.092970848083496,
+            "spectralFlux": 0.010076764039695263,
+            "threshold": 0.014076458290219307,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.139410018920899,
+            "spectralFlux": 0.008525765500962735,
+            "threshold": 0.013678304851055146,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.185850143432618,
+            "spectralFlux": 0.007099309470504522,
+            "threshold": 0.013430077582597733,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.232290267944336,
+            "spectralFlux": 0.01353514101356268,
+            "threshold": 0.013274501077830792,
+            "prunedSpectralFlux": 0.0002606399357318878,
+            "isPeak": false
+        },
+        {
+            "time": 15.278730392456055,
+            "spectralFlux": 0.013331038877367974,
+            "threshold": 0.012805677019059658,
+            "prunedSpectralFlux": 0.0005253618583083153,
+            "isPeak": true
+        },
+        {
+            "time": 15.325170516967774,
+            "spectralFlux": 0.009124411270022393,
+            "threshold": 0.012127774767577649,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.371609687805176,
+            "spectralFlux": 0.0076625291258096699,
+            "threshold": 0.011693213135004044,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.418049812316895,
+            "spectralFlux": 0.0066222758032381538,
+            "threshold": 0.009979438968002797,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.464489936828614,
+            "spectralFlux": 0.005649196915328503,
+            "threshold": 0.009030329994857312,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.510930061340332,
+            "spectralFlux": 0.004373873583972454,
+            "threshold": 0.007983059622347355,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.557369232177735,
+            "spectralFlux": 0.004290344193577766,
+            "threshold": 0.007908343337476254,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.603809356689454,
+            "spectralFlux": 0.004014875274151564,
+            "threshold": 0.008018414489924908,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.650249481201172,
+            "spectralFlux": 0.003615156514570117,
+            "threshold": 0.00804428942501545,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.69668960571289,
+            "spectralFlux": 0.003116130130365491,
+            "threshold": 0.008062491193413735,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.743128776550293,
+            "spectralFlux": 0.0024868438486009838,
+            "threshold": 0.007611398119479418,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.789568901062012,
+            "spectralFlux": 0.0022004172205924989,
+            "threshold": 0.008497854694724083,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.83600902557373,
+            "spectralFlux": 0.0019500880734995008,
+            "threshold": 0.009069872088730336,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.88244915008545,
+            "spectralFlux": 0.001818036544136703,
+            "threshold": 0.009435180574655533,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 15.928889274597168,
+            "spectralFlux": 0.01572323776781559,
+            "threshold": 0.009613693691790104,
+            "prunedSpectralFlux": 0.006109544076025486,
+            "isPeak": true
+        },
+        {
+            "time": 15.97532844543457,
+            "spectralFlux": 0.011819560080766678,
+            "threshold": 0.009692996740341187,
+            "prunedSpectralFlux": 0.0021265633404254915,
+            "isPeak": false
+        },
+        {
+            "time": 16.02176856994629,
+            "spectralFlux": 0.008935444988310337,
+            "threshold": 0.010690650902688504,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.068208694458009,
+            "spectralFlux": 0.00738751282915473,
+            "threshold": 0.011265872977674008,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.114648818969728,
+            "spectralFlux": 0.006392823997884989,
+            "threshold": 0.011635664850473404,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.161088943481447,
+            "spectralFlux": 0.027366602793335916,
+            "threshold": 0.011859918013215065,
+            "prunedSpectralFlux": 0.01550668478012085,
+            "isPeak": true
+        },
+        {
+            "time": 16.207529067993165,
+            "spectralFlux": 0.01818135753273964,
+            "threshold": 0.012063649483025074,
+            "prunedSpectralFlux": 0.006117708049714565,
+            "isPeak": false
+        },
+        {
+            "time": 16.253969192504884,
+            "spectralFlux": 0.013446579687297345,
+            "threshold": 0.013597260229289532,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.30040740966797,
+            "spectralFlux": 0.009448716416954995,
+            "threshold": 0.014605880714952946,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.346847534179689,
+            "spectralFlux": 0.006904827430844307,
+            "threshold": 0.015230000950396061,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.393287658691408,
+            "spectralFlux": 0.020170070230960847,
+            "threshold": 0.016243552789092065,
+            "prunedSpectralFlux": 0.003926517441868782,
+            "isPeak": true
+        },
+        {
+            "time": 16.439727783203126,
+            "spectralFlux": 0.013398025184869767,
+            "threshold": 0.016005882993340493,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.486167907714845,
+            "spectralFlux": 0.00986994244158268,
+            "threshold": 0.01592939905822277,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.532608032226564,
+            "spectralFlux": 0.007165814749896526,
+            "threshold": 0.01605468988418579,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.57904815673828,
+            "spectralFlux": 0.006341878790408373,
+            "threshold": 0.016048870980739595,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.62548828125,
+            "spectralFlux": 0.026769034564495088,
+            "threshold": 0.016001801937818528,
+            "prunedSpectralFlux": 0.01076723262667656,
+            "isPeak": true
+        },
+        {
+            "time": 16.671926498413087,
+            "spectralFlux": 0.01817021332681179,
+            "threshold": 0.0145807433873415,
+            "prunedSpectralFlux": 0.003589469939470291,
+            "isPeak": false
+        },
+        {
+            "time": 16.718366622924806,
+            "spectralFlux": 0.011832024902105332,
+            "threshold": 0.01369401253759861,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.764806747436525,
+            "spectralFlux": 0.017865940928459169,
+            "threshold": 0.013109448365867138,
+            "prunedSpectralFlux": 0.00475649256259203,
+            "isPeak": true
+        },
+        {
+            "time": 16.811246871948243,
+            "spectralFlux": 0.011960092931985855,
+            "threshold": 0.01278663519769907,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.85768699645996,
+            "spectralFlux": 0.010608554817736149,
+            "threshold": 0.013424637727439404,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.90412712097168,
+            "spectralFlux": 0.010919230058789254,
+            "threshold": 0.012894065119326115,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.9505672454834,
+            "spectralFlux": 0.007295409683138132,
+            "threshold": 0.01263225357979536,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 16.997007369995118,
+            "spectralFlux": 0.005647559650242329,
+            "threshold": 0.012455692514777184,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.043447494506837,
+            "spectralFlux": 0.004866506904363632,
+            "threshold": 0.01240187045186758,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.089885711669923,
+            "spectralFlux": 0.004141430836170912,
+            "threshold": 0.012312568724155426,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.13632583618164,
+            "spectralFlux": 0.004190980922430754,
+            "threshold": 0.010905031114816666,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.18276596069336,
+            "spectralFlux": 0.004337497055530548,
+            "threshold": 0.011619748547673226,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.229206085205079,
+            "spectralFlux": 0.017006542533636094,
+            "threshold": 0.01198488101363182,
+            "prunedSpectralFlux": 0.0050216615200042728,
+            "isPeak": true
+        },
+        {
+            "time": 17.275646209716798,
+            "spectralFlux": 0.011769344098865986,
+            "threshold": 0.011624844744801522,
+            "prunedSpectralFlux": 0.00014449935406446457,
+            "isPeak": false
+        },
+        {
+            "time": 17.322086334228517,
+            "spectralFlux": 0.009252666495740414,
+            "threshold": 0.011370107531547547,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.368526458740236,
+            "spectralFlux": 0.007074387278407812,
+            "threshold": 0.011074692942202092,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.414966583251954,
+            "spectralFlux": 0.00631363783031702,
+            "threshold": 0.010632213205099106,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.461406707763673,
+            "spectralFlux": 0.004927936475723982,
+            "threshold": 0.010377204976975918,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.507844924926759,
+            "spectralFlux": 0.0044830418191850189,
+            "threshold": 0.010184647515416146,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.554285049438478,
+            "spectralFlux": 0.02948657236993313,
+            "threshold": 0.00999760814011097,
+            "prunedSpectralFlux": 0.01948896422982216,
+            "isPeak": true
+        },
+        {
+            "time": 17.600725173950197,
+            "spectralFlux": 0.017613274976611139,
+            "threshold": 0.009824876673519612,
+            "prunedSpectralFlux": 0.007788398303091526,
+            "isPeak": false
+        },
+        {
+            "time": 17.647165298461915,
+            "spectralFlux": 0.012165374122560025,
+            "threshold": 0.011235548183321953,
+            "prunedSpectralFlux": 0.0009298259392380714,
+            "isPeak": false
+        },
+        {
+            "time": 17.693605422973634,
+            "spectralFlux": 0.00792674906551838,
+            "threshold": 0.011930380016565323,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.74004554748535,
+            "spectralFlux": 0.005931168328970671,
+            "threshold": 0.01149828266352415,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.78648567199707,
+            "spectralFlux": 0.003913292661309242,
+            "threshold": 0.011191419325768948,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.83292579650879,
+            "spectralFlux": 0.00325776357203722,
+            "threshold": 0.010915635153651238,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.879365921020509,
+            "spectralFlux": 0.002598740626126528,
+            "threshold": 0.012043003924190998,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.925804138183595,
+            "spectralFlux": 0.0019050444243475795,
+            "threshold": 0.012682725675404072,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 17.972244262695314,
+            "spectralFlux": 0.0014065243303775788,
+            "threshold": 0.013439510948956013,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.01868438720703,
+            "spectralFlux": 0.026526596397161485,
+            "threshold": 0.01438194327056408,
+            "prunedSpectralFlux": 0.012144653126597405,
+            "isPeak": true
+        },
+        {
+            "time": 18.06512451171875,
+            "spectralFlux": 0.015339003875851632,
+            "threshold": 0.0131966108456254,
+            "prunedSpectralFlux": 0.0021423930302262308,
+            "isPeak": false
+        },
+        {
+            "time": 18.11156463623047,
+            "spectralFlux": 0.010165012441575528,
+            "threshold": 0.013832641765475273,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.158004760742189,
+            "spectralFlux": 0.0069106826558709148,
+            "threshold": 0.014168433845043183,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.204444885253908,
+            "spectralFlux": 0.004886073060333729,
+            "threshold": 0.014459720812737942,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.250885009765626,
+            "spectralFlux": 0.02492440491914749,
+            "threshold": 0.014572309330105782,
+            "prunedSpectralFlux": 0.01035209558904171,
+            "isPeak": true
+        },
+        {
+            "time": 18.297325134277345,
+            "spectralFlux": 0.01644255593419075,
+            "threshold": 0.014680219814181328,
+            "prunedSpectralFlux": 0.0017623361200094224,
+            "isPeak": false
+        },
+        {
+            "time": 18.34376335144043,
+            "spectralFlux": 0.016910389065742494,
+            "threshold": 0.015743736177682878,
+            "prunedSpectralFlux": 0.001166652888059616,
+            "isPeak": false
+        },
+        {
+            "time": 18.39020347595215,
+            "spectralFlux": 0.019404862076044084,
+            "threshold": 0.016347611322999,
+            "prunedSpectralFlux": 0.003057250753045082,
+            "isPeak": true
+        },
+        {
+            "time": 18.436643600463868,
+            "spectralFlux": 0.010718843899667263,
+            "threshold": 0.01678846962749958,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.483083724975587,
+            "spectralFlux": 0.02768375724554062,
+            "threshold": 0.017143435776233674,
+            "prunedSpectralFlux": 0.010540321469306946,
+            "isPeak": true
+        },
+        {
+            "time": 18.529523849487306,
+            "spectralFlux": 0.017482072114944459,
+            "threshold": 0.01585656963288784,
+            "prunedSpectralFlux": 0.0016255024820566178,
+            "isPeak": false
+        },
+        {
+            "time": 18.575963973999025,
+            "spectralFlux": 0.012538773007690907,
+            "threshold": 0.015208764001727105,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.622404098510743,
+            "spectralFlux": 0.007713826838880777,
+            "threshold": 0.014829391613602639,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.66884422302246,
+            "spectralFlux": 0.005621894262731075,
+            "threshold": 0.01465762872248888,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.71528434753418,
+            "spectralFlux": 0.02009674161672592,
+            "threshold": 0.01459231972694397,
+            "prunedSpectralFlux": 0.005504421889781952,
+            "isPeak": true
+        },
+        {
+            "time": 18.761722564697267,
+            "spectralFlux": 0.012160084210336209,
+            "threshold": 0.013255409896373749,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.808162689208986,
+            "spectralFlux": 0.008885330520570279,
+            "threshold": 0.013502024114131928,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.854602813720704,
+            "spectralFlux": 0.00702681252732873,
+            "threshold": 0.01328424271196127,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.901042938232423,
+            "spectralFlux": 0.00615123612806201,
+            "threshold": 0.01259514968842268,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.94748306274414,
+            "spectralFlux": 0.005082098301500082,
+            "threshold": 0.01242162473499775,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 18.99392318725586,
+            "spectralFlux": 0.004158278461545706,
+            "threshold": 0.011208143085241318,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.040363311767579,
+            "spectralFlux": 0.004191109444946051,
+            "threshold": 0.010570472106337548,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.086803436279298,
+            "spectralFlux": 0.0038520009256899359,
+            "threshold": 0.010176424868404866,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.133243560791017,
+            "spectralFlux": 0.003756651422008872,
+            "threshold": 0.010786380618810654,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.1796817779541,
+            "spectralFlux": 0.02034730277955532,
+            "threshold": 0.01135218981653452,
+            "prunedSpectralFlux": 0.008995112963020802,
+            "isPeak": true
+        },
+        {
+            "time": 19.22612190246582,
+            "spectralFlux": 0.013462183997035027,
+            "threshold": 0.010764539241790772,
+            "prunedSpectralFlux": 0.002697644755244255,
+            "isPeak": false
+        },
+        {
+            "time": 19.27256202697754,
+            "spectralFlux": 0.008494200184941292,
+            "threshold": 0.010486503131687642,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.319002151489259,
+            "spectralFlux": 0.007971365936100483,
+            "threshold": 0.010344471782445908,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.365442276000978,
+            "spectralFlux": 0.008470296859741211,
+            "threshold": 0.010920045897364617,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.411882400512697,
+            "spectralFlux": 0.007385604549199343,
+            "threshold": 0.011799706146121025,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.458322525024415,
+            "spectralFlux": 0.006299688946455717,
+            "threshold": 0.012292632833123207,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.504762649536134,
+            "spectralFlux": 0.017371460795402528,
+            "threshold": 0.012606841512024403,
+            "prunedSpectralFlux": 0.004764619283378124,
+            "isPeak": true
+        },
+        {
+            "time": 19.55120086669922,
+            "spectralFlux": 0.014580531045794487,
+            "threshold": 0.012883037328720093,
+            "prunedSpectralFlux": 0.0016974937170743943,
+            "isPeak": false
+        },
+        {
+            "time": 19.597640991210939,
+            "spectralFlux": 0.01079229824244976,
+            "threshold": 0.013180732727050782,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.644081115722658,
+            "spectralFlux": 0.0077578225173056129,
+            "threshold": 0.013382588513195515,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.690521240234376,
+            "spectralFlux": 0.006636511534452438,
+            "threshold": 0.012493643909692765,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.736961364746095,
+            "spectralFlux": 0.016140077263116838,
+            "threshold": 0.011992214247584343,
+            "prunedSpectralFlux": 0.004147863015532494,
+            "isPeak": false
+        },
+        {
+            "time": 19.783401489257814,
+            "spectralFlux": 0.020079175010323526,
+            "threshold": 0.01175636239349842,
+            "prunedSpectralFlux": 0.008322812616825104,
+            "isPeak": true
+        },
+        {
+            "time": 19.82984161376953,
+            "spectralFlux": 0.012886771000921727,
+            "threshold": 0.011499638669192791,
+            "prunedSpectralFlux": 0.0013871323317289353,
+            "isPeak": false
+        },
+        {
+            "time": 19.87628173828125,
+            "spectralFlux": 0.00913324672728777,
+            "threshold": 0.0111329834908247,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.92272186279297,
+            "spectralFlux": 0.008564197458326817,
+            "threshold": 0.010796868242323399,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 19.969160079956056,
+            "spectralFlux": 0.008565517142415047,
+            "threshold": 0.0114126056432724,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.015600204467775,
+            "spectralFlux": 0.006952696014195681,
+            "threshold": 0.010940004140138626,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.062040328979493,
+            "spectralFlux": 0.006272353231906891,
+            "threshold": 0.0119750015437603,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.10848045349121,
+            "spectralFlux": 0.005522897467017174,
+            "threshold": 0.012481465004384518,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.15492057800293,
+            "spectralFlux": 0.0047598788514733318,
+            "threshold": 0.012868332676589489,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.20136070251465,
+            "spectralFlux": 0.003906572703272104,
+            "threshold": 0.013740036636590958,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.247800827026368,
+            "spectralFlux": 0.002664924366399646,
+            "threshold": 0.013463500887155533,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.294240951538087,
+            "spectralFlux": 0.002063763327896595,
+            "threshold": 0.012777513824403286,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.340681076049806,
+            "spectralFlux": 0.01604887843132019,
+            "threshold": 0.012407350353896618,
+            "prunedSpectralFlux": 0.0036415280774235727,
+            "isPeak": true
+        },
+        {
+            "time": 20.38711929321289,
+            "spectralFlux": 0.009888624772429467,
+            "threshold": 0.012239678762853146,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.43355941772461,
+            "spectralFlux": 0.03096798248589039,
+            "threshold": 0.012744540348649025,
+            "prunedSpectralFlux": 0.018223442137241365,
+            "isPeak": true
+        },
+        {
+            "time": 20.479999542236329,
+            "spectralFlux": 0.018811311572790147,
+            "threshold": 0.012844222597777844,
+            "prunedSpectralFlux": 0.005967088975012302,
+            "isPeak": false
+        },
+        {
+            "time": 20.526439666748048,
+            "spectralFlux": 0.013883216306567192,
+            "threshold": 0.012928822077810765,
+            "prunedSpectralFlux": 0.0009543942287564278,
+            "isPeak": false
+        },
+        {
+            "time": 20.572879791259767,
+            "spectralFlux": 0.020438488572835923,
+            "threshold": 0.012948657386004925,
+            "prunedSpectralFlux": 0.0074898311868309979,
+            "isPeak": true
+        },
+        {
+            "time": 20.619319915771486,
+            "spectralFlux": 0.011761587113142014,
+            "threshold": 0.01297777146100998,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.665760040283204,
+            "spectralFlux": 0.00921768881380558,
+            "threshold": 0.012979086488485337,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.712200164794923,
+            "spectralFlux": 0.007025866769254208,
+            "threshold": 0.013002217747271061,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.75864028930664,
+            "spectralFlux": 0.006478451192378998,
+            "threshold": 0.013091708533465863,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.805078506469728,
+            "spectralFlux": 0.01655784621834755,
+            "threshold": 0.013191549107432366,
+            "prunedSpectralFlux": 0.003366297110915184,
+            "isPeak": true
+        },
+        {
+            "time": 20.851518630981447,
+            "spectralFlux": 0.010143821127712727,
+            "threshold": 0.012385327368974686,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.897958755493165,
+            "spectralFlux": 0.008292167447507382,
+            "threshold": 0.011922760866582394,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.944398880004884,
+            "spectralFlux": 0.006586432922631502,
+            "threshold": 0.010111038573086262,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 20.9908390045166,
+            "spectralFlux": 0.005983863957226276,
+            "threshold": 0.009051901288330555,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.03727912902832,
+            "spectralFlux": 0.004780699498951435,
+            "threshold": 0.00829043984413147,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.08371925354004,
+            "spectralFlux": 0.004272811580449343,
+            "threshold": 0.007246495224535465,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.130159378051759,
+            "spectralFlux": 0.004081865306943655,
+            "threshold": 0.007373870816081762,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.176599502563478,
+            "spectralFlux": 0.003644589800387621,
+            "threshold": 0.0074002319015562538,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.223037719726564,
+            "spectralFlux": 0.0032837039325386287,
+            "threshold": 0.007480598520487547,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.26947784423828,
+            "spectralFlux": 0.00256465096026659,
+            "threshold": 0.007486897986382246,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.31591796875,
+            "spectralFlux": 0.002282380126416683,
+            "threshold": 0.007063721772283316,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.36235809326172,
+            "spectralFlux": 0.0020416234619915487,
+            "threshold": 0.00771328853443265,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.408798217773439,
+            "spectralFlux": 0.0018267518607899547,
+            "threshold": 0.008116059005260468,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.455238342285158,
+            "spectralFlux": 0.003909362480044365,
+            "threshold": 0.008361640386283398,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.501678466796876,
+            "spectralFlux": 0.013778368942439556,
+            "threshold": 0.008461245335638523,
+            "prunedSpectralFlux": 0.005317123606801033,
+            "isPeak": true
+        },
+        {
+            "time": 21.548118591308595,
+            "spectralFlux": 0.009635073132812977,
+            "threshold": 0.0087443757802248,
+            "prunedSpectralFlux": 0.0008906973525881767,
+            "isPeak": false
+        },
+        {
+            "time": 21.594558715820314,
+            "spectralFlux": 0.008298336528241635,
+            "threshold": 0.009460545144975186,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.6409969329834,
+            "spectralFlux": 0.006578197702765465,
+            "threshold": 0.009882465936243534,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.687437057495118,
+            "spectralFlux": 0.009857559576630593,
+            "threshold": 0.010165135376155377,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.733877182006837,
+            "spectralFlux": 0.020428629592061044,
+            "threshold": 0.01036992110311985,
+            "prunedSpectralFlux": 0.010058708488941193,
+            "isPeak": true
+        },
+        {
+            "time": 21.780317306518556,
+            "spectralFlux": 0.014669361524283886,
+            "threshold": 0.010870613157749176,
+            "prunedSpectralFlux": 0.00379874836653471,
+            "isPeak": false
+        },
+        {
+            "time": 21.826757431030275,
+            "spectralFlux": 0.010474794544279576,
+            "threshold": 0.011601344682276249,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.873197555541993,
+            "spectralFlux": 0.007560953497886658,
+            "threshold": 0.01206540409475565,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.91963768005371,
+            "spectralFlux": 0.009263592772185803,
+            "threshold": 0.013896798714995385,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 21.96607780456543,
+            "spectralFlux": 0.015612166374921799,
+            "threshold": 0.014720062725245953,
+            "prunedSpectralFlux": 0.0008921036496758461,
+            "isPeak": true
+        },
+        {
+            "time": 22.01251792907715,
+            "spectralFlux": 0.010762279853224755,
+            "threshold": 0.01497615221887827,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.058956146240236,
+            "spectralFlux": 0.008120184764266014,
+            "threshold": 0.015494109131395817,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.105396270751954,
+            "spectralFlux": 0.006526174023747444,
+            "threshold": 0.015637381002306939,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.151836395263673,
+            "spectralFlux": 0.010492267087101937,
+            "threshold": 0.01576634682714939,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.19827651977539,
+            "spectralFlux": 0.013852296397089959,
+            "threshold": 0.015589902177453041,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.24471664428711,
+            "spectralFlux": 0.00938921794295311,
+            "threshold": 0.015119461342692376,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.291156768798829,
+            "spectralFlux": 0.030823839828372,
+            "threshold": 0.015016057528555394,
+            "prunedSpectralFlux": 0.015807781368494035,
+            "isPeak": true
+        },
+        {
+            "time": 22.337596893310548,
+            "spectralFlux": 0.016944365575909616,
+            "threshold": 0.014965957030653954,
+            "prunedSpectralFlux": 0.001978408545255661,
+            "isPeak": false
+        },
+        {
+            "time": 22.384037017822267,
+            "spectralFlux": 0.01783311925828457,
+            "threshold": 0.014997745864093304,
+            "prunedSpectralFlux": 0.002835373394191265,
+            "isPeak": false
+        },
+        {
+            "time": 22.430477142333986,
+            "spectralFlux": 0.01783604547381401,
+            "threshold": 0.014836261048913002,
+            "prunedSpectralFlux": 0.0029997844249010088,
+            "isPeak": true
+        },
+        {
+            "time": 22.47691535949707,
+            "spectralFlux": 0.01056679803878069,
+            "threshold": 0.014212802052497864,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.52335548400879,
+            "spectralFlux": 0.008620166219770909,
+            "threshold": 0.013819671235978604,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.569795608520509,
+            "spectralFlux": 0.007063841912895441,
+            "threshold": 0.013578010722994805,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.616235733032228,
+            "spectralFlux": 0.012979998253285885,
+            "threshold": 0.013417352922260762,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.662675857543947,
+            "spectralFlux": 0.013032139278948307,
+            "threshold": 0.012984143570065499,
+            "prunedSpectralFlux": 0.000047995708882808685,
+            "isPeak": true
+        },
+        {
+            "time": 22.709115982055665,
+            "spectralFlux": 0.00968152191489935,
+            "threshold": 0.01230765599757433,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.755556106567384,
+            "spectralFlux": 0.008064269088208676,
+            "threshold": 0.011869123205542565,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.8019962310791,
+            "spectralFlux": 0.006706776563078165,
+            "threshold": 0.010061695240437985,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.848434448242189,
+            "spectralFlux": 0.005740717519074678,
+            "threshold": 0.009114624932408333,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.894874572753908,
+            "spectralFlux": 0.004537718836218119,
+            "threshold": 0.00810361560434103,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.941314697265626,
+            "spectralFlux": 0.004293882288038731,
+            "threshold": 0.007931273430585862,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 22.987754821777345,
+            "spectralFlux": 0.003982419613748789,
+            "threshold": 0.00802003312855959,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.034194946289064,
+            "spectralFlux": 0.003633105428889394,
+            "threshold": 0.008045783266425133,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.08063507080078,
+            "spectralFlux": 0.003141248831525445,
+            "threshold": 0.00806272029876709,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.1270751953125,
+            "spectralFlux": 0.002445787424221635,
+            "threshold": 0.007650448940694332,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.17351531982422,
+            "spectralFlux": 0.0022062219213694336,
+            "threshold": 0.008496219292283059,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.219955444335939,
+            "spectralFlux": 0.0019491083221510053,
+            "threshold": 0.009034658782184124,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.266393661499025,
+            "spectralFlux": 0.0018254853785037995,
+            "threshold": 0.009383097290992737,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.312833786010743,
+            "spectralFlux": 0.01510730478912592,
+            "threshold": 0.009564555250108242,
+            "prunedSpectralFlux": 0.005542749539017677,
+            "isPeak": true
+        },
+        {
+            "time": 23.35927391052246,
+            "spectralFlux": 0.011972141452133656,
+            "threshold": 0.00964522548019886,
+            "prunedSpectralFlux": 0.0023269159719347955,
+            "isPeak": false
+        },
+        {
+            "time": 23.40571403503418,
+            "spectralFlux": 0.009027873165905476,
+            "threshold": 0.010606969706714154,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.4521541595459,
+            "spectralFlux": 0.00733202276751399,
+            "threshold": 0.011191129684448243,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.498594284057618,
+            "spectralFlux": 0.006452352739870548,
+            "threshold": 0.011563326232135296,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.545034408569337,
+            "spectralFlux": 0.026423512026667596,
+            "threshold": 0.0118006132543087,
+            "prunedSpectralFlux": 0.014622898772358895,
+            "isPeak": true
+        },
+        {
+            "time": 23.591474533081056,
+            "spectralFlux": 0.018206818029284478,
+            "threshold": 0.012006135657429695,
+            "prunedSpectralFlux": 0.006200682371854782,
+            "isPeak": false
+        },
+        {
+            "time": 23.637914657592775,
+            "spectralFlux": 0.01358120422810316,
+            "threshold": 0.013147651217877865,
+            "prunedSpectralFlux": 0.000433553010225296,
+            "isPeak": false
+        },
+        {
+            "time": 23.68435287475586,
+            "spectralFlux": 0.009579871781170369,
+            "threshold": 0.013758385553956032,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.730792999267579,
+            "spectralFlux": 0.007017997559159994,
+            "threshold": 0.01418138574808836,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.777233123779298,
+            "spectralFlux": 0.019765332341194154,
+            "threshold": 0.015523719601333142,
+            "prunedSpectralFlux": 0.0042416127398610119,
+            "isPeak": true
+        },
+        {
+            "time": 23.823673248291017,
+            "spectralFlux": 0.013543066568672657,
+            "threshold": 0.015578024089336396,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.870113372802736,
+            "spectralFlux": 0.009875534102320671,
+            "threshold": 0.01650640368461609,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.916553497314454,
+            "spectralFlux": 0.007390162441879511,
+            "threshold": 0.016879914328455926,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 23.962993621826173,
+            "spectralFlux": 0.006395334377884865,
+            "threshold": 0.017034854739904405,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.00943374633789,
+            "spectralFlux": 0.020519772544503213,
+            "threshold": 0.017121415585279466,
+            "prunedSpectralFlux": 0.0033983569592237474,
+            "isPeak": true
+        },
+        {
+            "time": 24.05587387084961,
+            "spectralFlux": 0.011876177974045277,
+            "threshold": 0.015886273235082628,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.102312088012697,
+            "spectralFlux": 0.008646614849567414,
+            "threshold": 0.016130860894918443,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.148752212524415,
+            "spectralFlux": 0.023079093545675279,
+            "threshold": 0.016004076227545739,
+            "prunedSpectralFlux": 0.0070750173181295399,
+            "isPeak": true
+        },
+        {
+            "time": 24.195192337036134,
+            "spectralFlux": 0.015967130661010743,
+            "threshold": 0.01594442129135132,
+            "prunedSpectralFlux": 0.000022709369659423828,
+            "isPeak": false
+        },
+        {
+            "time": 24.24163246154785,
+            "spectralFlux": 0.026671497151255609,
+            "threshold": 0.01594984158873558,
+            "prunedSpectralFlux": 0.010721655562520028,
+            "isPeak": true
+        },
+        {
+            "time": 24.28807258605957,
+            "spectralFlux": 0.014941781759262085,
+            "threshold": 0.01509995199739933,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.33451271057129,
+            "spectralFlux": 0.009785247035324574,
+            "threshold": 0.014577287249267102,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.380952835083009,
+            "spectralFlux": 0.007822914980351925,
+            "threshold": 0.014221075922250748,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.427392959594728,
+            "spectralFlux": 0.006867077201604843,
+            "threshold": 0.014024348929524422,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.473833084106447,
+            "spectralFlux": 0.022079437971115114,
+            "threshold": 0.013866858556866646,
+            "prunedSpectralFlux": 0.008212579414248467,
+            "isPeak": true
+        },
+        {
+            "time": 24.52027130126953,
+            "spectralFlux": 0.011573820374906063,
+            "threshold": 0.01279747486114502,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.56671142578125,
+            "spectralFlux": 0.008635331876575947,
+            "threshold": 0.012234803289175034,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.61315155029297,
+            "spectralFlux": 0.0071038235910236839,
+            "threshold": 0.011842314153909684,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.659591674804689,
+            "spectralFlux": 0.00630871532484889,
+            "threshold": 0.010519299656152726,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.706031799316408,
+            "spectralFlux": 0.005267541389912367,
+            "threshold": 0.009627632796764374,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.752471923828126,
+            "spectralFlux": 0.004235528875142336,
+            "threshold": 0.008055302314460278,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.798912048339845,
+            "spectralFlux": 0.004275314509868622,
+            "threshold": 0.008449262008070946,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.845352172851564,
+            "spectralFlux": 0.0039017319213598968,
+            "threshold": 0.008525196462869645,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.89179229736328,
+            "spectralFlux": 0.0035878594499081375,
+            "threshold": 0.008584113791584969,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.938230514526368,
+            "spectralFlux": 0.0029672409873455765,
+            "threshold": 0.0085885776206851,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 24.984670639038087,
+            "spectralFlux": 0.0024321877863258125,
+            "threshold": 0.007586661260575056,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.031110763549806,
+            "spectralFlux": 0.0021313729230314495,
+            "threshold": 0.008880368433892727,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.077550888061525,
+            "spectralFlux": 0.0018490711227059365,
+            "threshold": 0.009394998662173748,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.123991012573243,
+            "spectralFlux": 0.001776291523128748,
+            "threshold": 0.009714189916849137,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.17043113708496,
+            "spectralFlux": 0.021179473027586938,
+            "threshold": 0.009875813499093056,
+            "prunedSpectralFlux": 0.011303659528493882,
+            "isPeak": true
+        },
+        {
+            "time": 25.21687126159668,
+            "spectralFlux": 0.010987549088895321,
+            "threshold": 0.00993949081748724,
+            "prunedSpectralFlux": 0.001048058271408081,
+            "isPeak": false
+        },
+        {
+            "time": 25.2633113861084,
+            "spectralFlux": 0.008755765855312348,
+            "threshold": 0.011148002929985524,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.309751510620118,
+            "spectralFlux": 0.006937745492905378,
+            "threshold": 0.011677414178848267,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.356189727783204,
+            "spectralFlux": 0.006215769797563553,
+            "threshold": 0.012019280344247818,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.402629852294923,
+            "spectralFlux": 0.0320575051009655,
+            "threshold": 0.01222074031829834,
+            "prunedSpectralFlux": 0.01983676478266716,
+            "isPeak": true
+        },
+        {
+            "time": 25.44906997680664,
+            "spectralFlux": 0.016783643513917924,
+            "threshold": 0.012432674877345562,
+            "prunedSpectralFlux": 0.004350968636572361,
+            "isPeak": false
+        },
+        {
+            "time": 25.49551010131836,
+            "spectralFlux": 0.012157686986029148,
+            "threshold": 0.0140133211389184,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.541950225830079,
+            "spectralFlux": 0.008867750875651837,
+            "threshold": 0.01489611528813839,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.588390350341798,
+            "spectralFlux": 0.0062757693231105808,
+            "threshold": 0.01574125327169895,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.634830474853517,
+            "spectralFlux": 0.023370301350951196,
+            "threshold": 0.01652391441166401,
+            "prunedSpectralFlux": 0.006846386939287186,
+            "isPeak": true
+        },
+        {
+            "time": 25.681270599365236,
+            "spectralFlux": 0.012657659128308297,
+            "threshold": 0.01590139977633953,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.72770881652832,
+            "spectralFlux": 0.009314612485468388,
+            "threshold": 0.015825701877474786,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.77414894104004,
+            "spectralFlux": 0.006777641363441944,
+            "threshold": 0.015871915966272355,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.820589065551759,
+            "spectralFlux": 0.006322877947241068,
+            "threshold": 0.015872957184910775,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 25.867029190063478,
+            "spectralFlux": 0.027459092438220979,
+            "threshold": 0.01582765020430088,
+            "prunedSpectralFlux": 0.011631442233920098,
+            "isPeak": true
+        },
+        {
+            "time": 25.913469314575197,
+            "spectralFlux": 0.016108950600028039,
+            "threshold": 0.014105789363384247,
+            "prunedSpectralFlux": 0.002003161236643791,
+            "isPeak": false
+        },
+        {
+            "time": 25.959909439086915,
+            "spectralFlux": 0.015230431221425534,
+            "threshold": 0.013303528539836407,
+            "prunedSpectralFlux": 0.0019269026815891266,
+            "isPeak": false
+        },
+        {
+            "time": 26.006349563598634,
+            "spectralFlux": 0.014168414287269116,
+            "threshold": 0.012792965397238732,
+            "prunedSpectralFlux": 0.001375448890030384,
+            "isPeak": false
+        },
+        {
+            "time": 26.05278968811035,
+            "spectralFlux": 0.011323005892336369,
+            "threshold": 0.013017159886658192,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.09922981262207,
+            "spectralFlux": 0.00978898350149393,
+            "threshold": 0.013563587330281735,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.145668029785158,
+            "spectralFlux": 0.009487476199865342,
+            "threshold": 0.012763503938913346,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.192108154296876,
+            "spectralFlux": 0.006954247131943703,
+            "threshold": 0.012500179931521416,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.238548278808595,
+            "spectralFlux": 0.005498408805578947,
+            "threshold": 0.012355648912489415,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.284988403320314,
+            "spectralFlux": 0.004794704262167215,
+            "threshold": 0.012305314652621746,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.33142852783203,
+            "spectralFlux": 0.004081176593899727,
+            "threshold": 0.012200309894979,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.37786865234375,
+            "spectralFlux": 0.004073766991496086,
+            "threshold": 0.010754394344985485,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.42430877685547,
+            "spectralFlux": 0.012417487800121308,
+            "threshold": 0.011158774606883526,
+            "prunedSpectralFlux": 0.0012587131932377816,
+            "isPeak": false
+        },
+        {
+            "time": 26.470748901367189,
+            "spectralFlux": 0.014927530661225319,
+            "threshold": 0.011164423078298569,
+            "prunedSpectralFlux": 0.00376310758292675,
+            "isPeak": true
+        },
+        {
+            "time": 26.517189025878908,
+            "spectralFlux": 0.010702315717935562,
+            "threshold": 0.010975860990583897,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.563627243041993,
+            "spectralFlux": 0.008488365449011326,
+            "threshold": 0.01072598248720169,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.61006736755371,
+            "spectralFlux": 0.007026222534477711,
+            "threshold": 0.010440650396049023,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.65650749206543,
+            "spectralFlux": 0.005980692338198423,
+            "threshold": 0.01008187048137188,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.70294761657715,
+            "spectralFlux": 0.0046603018417954449,
+            "threshold": 0.009839658625423909,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.749387741088868,
+            "spectralFlux": 0.004565420560538769,
+            "threshold": 0.009641650132834912,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.795827865600587,
+            "spectralFlux": 0.02251165360212326,
+            "threshold": 0.009447863325476647,
+            "prunedSpectralFlux": 0.013063790276646614,
+            "isPeak": true
+        },
+        {
+            "time": 26.842267990112306,
+            "spectralFlux": 0.01531984657049179,
+            "threshold": 0.009276709519326687,
+            "prunedSpectralFlux": 0.006043137051165104,
+            "isPeak": false
+        },
+        {
+            "time": 26.888708114624025,
+            "spectralFlux": 0.01118285022675991,
+            "threshold": 0.010299929417669773,
+            "prunedSpectralFlux": 0.0008829208090901375,
+            "isPeak": false
+        },
+        {
+            "time": 26.935148239135743,
+            "spectralFlux": 0.007366615813225508,
+            "threshold": 0.010353480465710163,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 26.981586456298829,
+            "spectralFlux": 0.0052712177857756619,
+            "threshold": 0.009998254477977753,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.028026580810548,
+            "spectralFlux": 0.0038067977875471117,
+            "threshold": 0.009734835475683213,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.074466705322267,
+            "spectralFlux": 0.0031192281749099495,
+            "threshold": 0.009483475238084793,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.120906829833986,
+            "spectralFlux": 0.0023632729426026346,
+            "threshold": 0.010338460095226765,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.167346954345704,
+            "spectralFlux": 0.001726399757899344,
+            "threshold": 0.01088026538491249,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.213787078857423,
+            "spectralFlux": 0.0013712329091504217,
+            "threshold": 0.012316134758293629,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.26022720336914,
+            "spectralFlux": 0.02027474343776703,
+            "threshold": 0.013115974143147469,
+            "prunedSpectralFlux": 0.00715876929461956,
+            "isPeak": true
+        },
+        {
+            "time": 27.30666732788086,
+            "spectralFlux": 0.013265383429825306,
+            "threshold": 0.012319830246269703,
+            "prunedSpectralFlux": 0.000945553183555603,
+            "isPeak": false
+        },
+        {
+            "time": 27.353107452392579,
+            "spectralFlux": 0.009303126484155655,
+            "threshold": 0.012819572351872921,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.399545669555665,
+            "spectralFlux": 0.006531506776809692,
+            "threshold": 0.013041963800787926,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.445985794067384,
+            "spectralFlux": 0.0045085083693265919,
+            "threshold": 0.013283583335578442,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.4924259185791,
+            "spectralFlux": 0.020563483238220216,
+            "threshold": 0.01343392115086317,
+            "prunedSpectralFlux": 0.007129562087357044,
+            "isPeak": true
+        },
+        {
+            "time": 27.53886604309082,
+            "spectralFlux": 0.014559267088770867,
+            "threshold": 0.013504876755177975,
+            "prunedSpectralFlux": 0.0010543903335928918,
+            "isPeak": false
+        },
+        {
+            "time": 27.58530616760254,
+            "spectralFlux": 0.02739490009844303,
+            "threshold": 0.014329807832837105,
+            "prunedSpectralFlux": 0.013065092265605927,
+            "isPeak": true
+        },
+        {
+            "time": 27.631746292114259,
+            "spectralFlux": 0.01722954958677292,
+            "threshold": 0.014895124360918999,
+            "prunedSpectralFlux": 0.00233442522585392,
+            "isPeak": false
+        },
+        {
+            "time": 27.678186416625978,
+            "spectralFlux": 0.00990601908415556,
+            "threshold": 0.015315623953938485,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.724626541137697,
+            "spectralFlux": 0.023232437670230867,
+            "threshold": 0.015655940398573877,
+            "prunedSpectralFlux": 0.00757649727165699,
+            "isPeak": true
+        },
+        {
+            "time": 27.771066665649415,
+            "spectralFlux": 0.01470407284796238,
+            "threshold": 0.014753124676644802,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.8175048828125,
+            "spectralFlux": 0.011192233301699162,
+            "threshold": 0.014221142046153546,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.86394500732422,
+            "spectralFlux": 0.007651576306670904,
+            "threshold": 0.013899542391300202,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.910385131835939,
+            "spectralFlux": 0.004930261988192797,
+            "threshold": 0.013746987096965313,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 27.956825256347658,
+            "spectralFlux": 0.01618063449859619,
+            "threshold": 0.013696469366550446,
+            "prunedSpectralFlux": 0.002484165132045746,
+            "isPeak": true
+        },
+        {
+            "time": 28.003265380859376,
+            "spectralFlux": 0.011314107105135918,
+            "threshold": 0.013192862272262574,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.049705505371095,
+            "spectralFlux": 0.008384296670556069,
+            "threshold": 0.013470747508108616,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.096145629882814,
+            "spectralFlux": 0.006759569048881531,
+            "threshold": 0.012480845674872399,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.14258575439453,
+            "spectralFlux": 0.0059801796451210979,
+            "threshold": 0.011899610050022602,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.18902587890625,
+            "spectralFlux": 0.0048423465341329578,
+            "threshold": 0.011790656484663487,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.235464096069337,
+            "spectralFlux": 0.004211127758026123,
+            "threshold": 0.010847389698028565,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.281904220581056,
+            "spectralFlux": 0.004116042982786894,
+            "threshold": 0.010354029946029187,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.328344345092775,
+            "spectralFlux": 0.0037086389493197204,
+            "threshold": 0.010036044754087925,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.374784469604493,
+            "spectralFlux": 0.012589717283844948,
+            "threshold": 0.011026582680642605,
+            "prunedSpectralFlux": 0.001563134603202343,
+            "isPeak": false
+        },
+        {
+            "time": 28.42122459411621,
+            "spectralFlux": 0.01895911991596222,
+            "threshold": 0.011567817069590092,
+            "prunedSpectralFlux": 0.0073913028463721279,
+            "isPeak": true
+        },
+        {
+            "time": 28.46766471862793,
+            "spectralFlux": 0.011721452698111534,
+            "threshold": 0.011194808408617974,
+            "prunedSpectralFlux": 0.0005266442894935608,
+            "isPeak": false
+        },
+        {
+            "time": 28.51410484313965,
+            "spectralFlux": 0.008026644587516785,
+            "threshold": 0.010929940268397332,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.560544967651368,
+            "spectralFlux": 0.008180910721421242,
+            "threshold": 0.010803245939314366,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.606983184814454,
+            "spectralFlux": 0.008297408930957318,
+            "threshold": 0.012103305198252201,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.653423309326173,
+            "spectralFlux": 0.006892534904181957,
+            "threshold": 0.012871352955698967,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.69986343383789,
+            "spectralFlux": 0.0061574396677315239,
+            "threshold": 0.01330652367323637,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.74630355834961,
+            "spectralFlux": 0.02333512157201767,
+            "threshold": 0.013578694313764573,
+            "prunedSpectralFlux": 0.009756427258253098,
+            "isPeak": true
+        },
+        {
+            "time": 28.792743682861329,
+            "spectralFlux": 0.013499810360372067,
+            "threshold": 0.013885593973100186,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.839183807373048,
+            "spectralFlux": 0.010274665430188179,
+            "threshold": 0.014171200804412365,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.885623931884767,
+            "spectralFlux": 0.007120361085981131,
+            "threshold": 0.013794030994176865,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.932064056396486,
+            "spectralFlux": 0.0063783032819628719,
+            "threshold": 0.012975005432963372,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 28.978504180908204,
+            "spectralFlux": 0.02734382078051567,
+            "threshold": 0.012570922262966633,
+            "prunedSpectralFlux": 0.014772898517549038,
+            "isPeak": true
+        },
+        {
+            "time": 29.02494239807129,
+            "spectralFlux": 0.018140964210033418,
+            "threshold": 0.012355084531009198,
+            "prunedSpectralFlux": 0.0057858796790242199,
+            "isPeak": false
+        },
+        {
+            "time": 29.071382522583009,
+            "spectralFlux": 0.011732527986168862,
+            "threshold": 0.012073072604835034,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.117822647094728,
+            "spectralFlux": 0.008520499803125859,
+            "threshold": 0.011692652478814125,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.164262771606447,
+            "spectralFlux": 0.008975277654826641,
+            "threshold": 0.011391888372600079,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.210702896118165,
+            "spectralFlux": 0.008230733685195446,
+            "threshold": 0.01113651879131794,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.257143020629884,
+            "spectralFlux": 0.00661788135766983,
+            "threshold": 0.009754604659974575,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.3035831451416,
+            "spectralFlux": 0.005991216283291578,
+            "threshold": 0.008951572701334954,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.35002326965332,
+            "spectralFlux": 0.005323479883372784,
+            "threshold": 0.008330662734806538,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.39646339416504,
+            "spectralFlux": 0.004609191324561834,
+            "threshold": 0.007901753298938275,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.442901611328126,
+            "spectralFlux": 0.0037157165352255108,
+            "threshold": 0.007512273732572794,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.489341735839845,
+            "spectralFlux": 0.002274095779284835,
+            "threshold": 0.005796266719698906,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.535781860351564,
+            "spectralFlux": 0.002130440901964903,
+            "threshold": 0.0046633039601147179,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.58222198486328,
+            "spectralFlux": 0.002114092232659459,
+            "threshold": 0.003934578970074654,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.628662109375,
+            "spectralFlux": 0.0014548200415447355,
+            "threshold": 0.003406503004953265,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.67510223388672,
+            "spectralFlux": 0.0007851551636122167,
+            "threshold": 0.002848290838301182,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.721542358398439,
+            "spectralFlux": 0.00044361056643538177,
+            "threshold": 0.002335574943572283,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.767982482910158,
+            "spectralFlux": 0.000329278118442744,
+            "threshold": 0.0019242102280259133,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.814422607421876,
+            "spectralFlux": 0.0002115335373673588,
+            "threshold": 0.0015522957546636463,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.86086082458496,
+            "spectralFlux": 0.00017369200941175222,
+            "threshold": 0.0012229866115376354,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.90730094909668,
+            "spectralFlux": 0.0002023822016781196,
+            "threshold": 0.000938276993110776,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 29.9537410736084,
+            "spectralFlux": 0.0001944028917932883,
+            "threshold": 0.0007102537783794105,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.000181198120118,
+            "spectralFlux": 0.00015929854998830706,
+            "threshold": 0.000572657270822674,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.046621322631837,
+            "spectralFlux": 0.00013691725325770676,
+            "threshold": 0.00044348317896947265,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.093061447143556,
+            "spectralFlux": 0.00011273213021922857,
+            "threshold": 0.00031409974326379597,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.139501571655275,
+            "spectralFlux": 0.00010460164776304737,
+            "threshold": 0.00022538466146215796,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.185941696166993,
+            "spectralFlux": 0.00010257006215397269,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.23238182067871,
+            "spectralFlux": 0.0001094206963898614,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.278820037841798,
+            "spectralFlux": 0.00010129099246114492,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.325260162353517,
+            "spectralFlux": 0.00010535000183153898,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.371700286865236,
+            "spectralFlux": 0.00009548303205519915,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.418140411376954,
+            "spectralFlux": 0.00008518602408003062,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.464580535888673,
+            "spectralFlux": 0.00006552056584041566,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.51102066040039,
+            "spectralFlux": 0.00005016496652388014,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        },
+        {
+            "time": 30.55746078491211,
+            "spectralFlux": 0.000020238796423655003,
+            "threshold": 0.0,
+            "prunedSpectralFlux": 0.0,
+            "isPeak": false
+        }
+    ]
+}
